@@ -15,3 +15,9 @@ http://www.who.int/about/licensing/rss/en/
 
 Livescience.com RSS FEEDS
 http://www.livescience.com/home/feed/health.xml
+
+
+Initial Screenshots
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Splash%20Screen.PNG)
+
