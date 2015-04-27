@@ -19,13 +19,23 @@ http://www.livescience.com/home/feed/health.xml
 
 Initial Screenshots
 
+Splash Screen
+
 ![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Splash%20Screen.PNG)
 
-![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/loging.PNG)
+Social Sign-in
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/social%20sing-in.PNG)
+
+Custom Sign-up
 
 ![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Custom%20Signup.PNG)
 
+Custom Sign-in
+
 ![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Custom%20Loging.PNG)
+
+
 
 ![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/News%20Menu.PNG)
 
