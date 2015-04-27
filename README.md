@@ -21,3 +21,11 @@ Initial Screenshots
 
 ![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Splash%20Screen.PNG)
 
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/loging.PNG)
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Custom%20Signup.PNG)
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/Custom%20Loging.PNG)
+
+![ScreenShot](https://github.com/AndroidJamSriLanka/HealthyHub/blob/master/Screen%20Shots/News%20Menu.PNG)
+
